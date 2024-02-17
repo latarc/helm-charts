@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  example:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-02-17T16:51:10.127095337Z"
+    description: example helm chart
+    digest: de2d4b4e9a06a5f695d82807eced0ea15ab2c6db61ecc649a82c3359ab01d01c
+    name: example
+    type: application
+    urls:
+    - https://github.com/latarc/helm-charts/releases/download/example-0.1.0/example-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-02-17T16:51:10.127101037Z"
