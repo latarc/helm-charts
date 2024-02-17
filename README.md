@@ -1,5 +1,7 @@
 # LaTARC Community Kubernetes Helm Charts
 
+![Release Charts](https://github.com/latarc/helm-charts/actions/workflows/release.yaml/badge.svg?branch=main)  [![Releases downloads](https://img.shields.io/github/downloads/latarc/helm-charts/total.svg)](https://github.com/latarc/helm-charts/releases) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 The Helm charts available in this repository are provided as-is with no warranties.
 
 ## Usage
@@ -21,4 +23,4 @@ We'd love to have you contribute! Please refer to our [contribution guidelines](
 
 ## License
 
-[Apache 2.0 License](https://github.com/grafana/helm-charts/blob/main/LICENSE).
+[Apache 2.0 License](https://github.com/latarc/helm-charts/blob/main/LICENSE).
