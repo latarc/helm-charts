@@ -4,6 +4,6 @@ on: pull_request
 
 jobs:
   call-lint-test:
-    uses: ./.github/workflows/lint-test.yml
+    uses: ./.github/workflows/lint-test.yaml
   call-superlinter:
-    uses: ./.github/workflows/superlinter.yml
+    uses: ./.github/workflows/superlinter.yaml
