@@ -5,4 +5,4 @@ type: application
 # This is the chart version. This version number should be incremented each time you make changes
 version: 0.1.0
 appVersion: "v1.5.1"
-keyword: ['streaming']
+keywords: ['streaming']
