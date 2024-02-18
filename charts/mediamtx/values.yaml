@@ -114,7 +114,6 @@ ports:
 configMap:
   create: true
 
-
 # Use existing configmap -> remember set configMap.create to false and set customConfig to the path:  /path/to/config/mediamtx.yml
 # customConfig: /path/to/config/mediamtx.yml
 
@@ -131,8 +130,6 @@ extraVolumeMounts: []
 # extraVolumeMounts:
 #   - name: mediamtx-vol
 #     mountPath: /path/to/config/mediamtx.yml
-
-
 
 mediamtx: |
   hlsAlwaysRemux: yes
